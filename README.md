@@ -1,4 +1,20 @@
+# Next JS
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Initial Project
+
+``` sh
+
+npm init next-app nextjs-tutorial
+
+touch tsconfig.json  
+
+npm run dev
+
+npm install --save-dev typescript @types/react @types/node
+
+```
 
 ## Getting Started
 
